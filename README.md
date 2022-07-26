@@ -8,4 +8,4 @@
 - 🤔 Currently busy with Uni/ work so do not have many personal projects (all my repositorys are private).
 - 📫 You can reach me on discord if you want. My tag is sol#0002.
 
-### [https://sol-h.studio](My Porfolio)
+### ![https://sol-h.studio](My Porfolio)
